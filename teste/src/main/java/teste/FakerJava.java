@@ -1,3 +1,4 @@
+//Comentário
 package teste;
 
 public class FakerJava {
