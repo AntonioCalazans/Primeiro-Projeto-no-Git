@@ -1,4 +1,4 @@
-//comentário
+
 package teste;
 
 import com.github.javafaker.Faker;
