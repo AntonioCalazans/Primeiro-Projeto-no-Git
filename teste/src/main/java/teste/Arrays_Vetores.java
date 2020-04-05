@@ -8,6 +8,7 @@ public class Arrays_Vetores {
 
 		int[] a = new int[100];
 		String nomeDoProjeto = FakerAPI;
+		String ProjetoJava = "Estudar projeto Java";
 		int counter = 0; //Contador para o array
 		int par = 0; // Incrementar números pares
 		
