@@ -7,6 +7,7 @@ public class FakerJava {
 		// TODO Auto-generated method stub
 		
 		FakerJava faker = new FakerJava();
+		FakerJava01 object = new FakerJava01();
 		
 		
 
