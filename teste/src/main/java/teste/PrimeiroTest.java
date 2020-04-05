@@ -6,7 +6,7 @@ public class PrimeiroTest {
 		// TODO Auto-generated method stub
 		String name = "java";
 		System.out.println("Primeiro Programa!");
-		System.out.println("O primeiro programa é " + name);
+		
 
 	}
 
