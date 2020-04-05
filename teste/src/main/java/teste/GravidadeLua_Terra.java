@@ -11,6 +11,9 @@ public class GravidadeLua_Terra {
 		double Meu_Peso_Na_Lua = Meu_Peso_Na_Terra * Peso_Da_Lua;
 		double Meu_Peso_Na_Lua021 = Meu_Peso_Na_Terra * Peso_Da_Lua;
 		
+		///Um novo comentário
+		
+		
 		System.out.println("Meu Peso na Lua é de: " + Meu_Peso_Na_Lua);
 		System.out.println("Meu Peso na Lua é de: " + Meu_Peso_Na_Lua021);
 	}
