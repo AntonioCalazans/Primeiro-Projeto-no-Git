@@ -1,6 +1,6 @@
 package teste;
 
-public class GalToLit {
+public class Coronavirus {
 
 	public static void main(String[] args) {
 		double gallons;
