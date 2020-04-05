@@ -1,5 +1,7 @@
 package teste;
 
+//Comentário
+
 public class Conta {
 	
 	private String numero;
