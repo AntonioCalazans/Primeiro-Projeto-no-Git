@@ -20,6 +20,7 @@ public class Arrays_Vetores {
 				par++;
 				counter++;
 				
+				//comentário
 				if (counter == 10) {
 					System.out.println();
 					counter = 0;
