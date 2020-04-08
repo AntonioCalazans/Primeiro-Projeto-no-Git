@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>Terceiro_Usuario</name>
+=======
+	<name>course-git</name>
+>>>>>>> refs/remotes/origin/courseselenium
 	<comment></comment>
 	<projects>
 	</projects>
