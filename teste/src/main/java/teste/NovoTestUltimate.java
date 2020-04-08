@@ -4,5 +4,7 @@ public class NovoTestUltimate {
 
 	public static void main(String[] args) {
 
+	}
+	
 }
 	
